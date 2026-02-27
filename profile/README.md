@@ -34,9 +34,6 @@ Partnership with the **i-FAB Laboratory** (an innovative manufacturing lab at LI
 ### University of Milano-Bicocca – Applied Statistics Center
   Ongoing engagement with the Bicocca Applied Statistics Center, focusing on statistical methodologies for big data. This collaboration allows PIRC to work with academic statisticians on advanced analytical techniques and to incorporate statistical research breakthroughs into Porini’s analytics solutions.
 
-### European Big Data Value Association (BDVA)
-  PIRC is a member of the **BDVA/DAIRO**, a public-private partnership with the European Commission on Big Data and AI. Through BDVA, PIRC contributes to European-wide initiatives on data innovation and benefits from a network of leading experts in AI and big data. PIRC team members have participated in writing whitepapers (e.g. on AI trustworthiness) and co-leading **working groups on skills & education in AI** within BDVA, ensuring Porini has a voice in shaping the future of data science at the European level.
-
 ## Services and Offerings
 
 As an innovation hub, PIRC not only drives internal R&D but also offers resources for experimentation.
